@@ -89,9 +89,9 @@ span.badge {
   font-size: 1.3rem;
   max-width: fit-content;
   border-radius: 0;
-  position: relative;
-  bottom: 14%;
-  opacity: 0.9;
+  position: absolute;
+  left: 0;
+  bottom: 0;
 }
 
 h5.badge {
