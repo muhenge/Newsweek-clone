@@ -21,12 +21,12 @@
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/muhenge/Newsweek-clone/edit/develop/)
+[Live Demo Link](https://muhenge.github.io/Newsweek-clone/)
 
 
 ## Getting Started
 
--Use `git clone https://github.com/ugochukwuomeje/building-responsive-design.git` 
+-Use `git clone https://github.com/muhenge/Newsweek-clone.git` 
 
 ### Setup
 Use `npm install` to set up and install all bootstrap/jquery/popper.js on local 
@@ -41,6 +41,6 @@ Use `npm install` to set up and install all bootstrap/jquery/popper.js on local
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/muhenge/Newsweek-clone/issues).
 
 Feel free to clone
