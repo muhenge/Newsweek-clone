@@ -1,16 +1,14 @@
 # Responsive design
 
-> This project is from [Microverse](https://www.microverse.org/) main curriculum.
+> This project is from [Microverse](https://www.microverse.org/) main curriculum about Newsweek clone [here](https://www.newsweek.com/).
+
+
+
+
 
 ## Laptop and Desktops screen
 ![screenshot](Firefox_Screenshot_2020-01-03T14-51-09.905Z.png)
 
-## Small and Smartphones
-![screenshot](smartphones.png)
-
-
-
-This project is about Newsweek clone [here](https://www.newsweek.com/).
 
 
 
