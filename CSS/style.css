@@ -63,14 +63,27 @@ time {
     font-size: small;
   }
 
+  img.h-75 {
+    max-width: 100%;
+  }
+
   span#small-screen-subscribe {
     font-size: xx-small;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  img.h-75 {
+    max-width: 50%;
   }
 }
 
 @media screen and (max-width: 992px) {
   nav.navbar {
     display: none;
+  }
+  img.h-75 {
+    max-width: 50%;
   }
 }
 
