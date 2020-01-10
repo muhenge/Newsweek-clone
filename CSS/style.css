@@ -82,6 +82,7 @@ time {
   nav.navbar {
     display: none;
   }
+
   img.h-75 {
     max-width: 50%;
   }
@@ -176,6 +177,14 @@ article.top-stories > div.card {
   padding: 2px 15px 2px 20px;
   margin: 0 20px 0 20px;
   margin-bottom: 20px;
+}
+
+i {
+  color: black;
+}
+
+a i:hover {
+  color: blue;
 }
 
 article {
